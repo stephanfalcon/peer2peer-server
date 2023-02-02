@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "peer": "^0.6.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "peer2peer-server",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanfalcon/peer2peer-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephanfalcon/peer2peer-server/issues"
+  },
+  "homepage": "https://github.com/stephanfalcon/peer2peer-server#readme"
+}
